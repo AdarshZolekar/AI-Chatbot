@@ -80,4 +80,5 @@ Deploy on Streamlit Cloud:
 
 ## Contributing
 
-Contributions are welcome! Fork the repo, make changes, and submit a PR.
+Contributions are welcome! Fork the repo, make changes and submit a PR.
+
