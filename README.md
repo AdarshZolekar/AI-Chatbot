@@ -21,8 +21,7 @@ The chatbot uses the **Mistral-7B-Instruct-v0.2** model for conversational AI.
 
 ### 1. Prerequisites
 
-- Python 3.9+  
-- pip  
+- Python 3.9+
 - Hugging Face API token ([get it here](https://huggingface.co/settings/tokens))  
 
 ---
@@ -89,3 +88,4 @@ Contributions are welcome! Fork the repo, make changes and submit a PR.
     <img src="https://img.shields.io/badge/%E2%AC%86-Back%20to%20Top-blue?style=for-the-badge" alt="Back to Top"/>
   </a>
 </p>
+
